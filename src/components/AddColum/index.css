@@ -1,0 +1,25 @@
+.Add-List-Editor {
+  background: #dfe3e6;
+  border-radius: 5px;
+  padding: 2px 2px;
+}
+.List-Title-Edit {
+  cursor: pointer;
+  padding: 2px;
+  margin: 1px 3px;
+  font-size: 23px;
+  border-radius: 5px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.List-Title-Edit input {
+  margin: 6px 0 5px -2px;
+  border-radius: 3px;
+  border: none;
+  resize: none;
+  outline: none;
+  font-size: 15px;
+  width: 241px;
+  height: 18px;
+  padding: 5px;
+}
